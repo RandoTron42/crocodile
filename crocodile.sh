@@ -13,7 +13,7 @@ WIN10ISO="https://software-download.microsoft.com/download/pr/19041.264.200511-0
 
 ## ESXi URLS
 ESXI67ISO="http://localhost/provide/your/own/VMware-VMvisor-Installer-6.7.0.update03-14320388.x86_64.iso"
-ESXI70ISO="http://192.168.0.40:8080/share.cgi?ssid=6ab507ddee964cb2b5982af1d249aa82"
+ESXI70ISO="http://192.168.0.40:8080/share.cgi?ssid=3e19d783f47e46fc864dae4874a77b8c&fid=3e19d783f47e46fc864dae4874a77b8c&filename=VMware-VMvisor-Installer-7.0U3-18644231.x86_64.iso&openfolder=forcedownload&ep="
 ESXI65ISO="http://localhost/provide/your/own/VMware-VMvisor-Installer-6.5.0.update02-8294253.x86_64.iso"
 
 ALMAISO="https://repo.almalinux.org/almalinux/8.3-rc/isos/x86_64/AlmaLinux-8.3-rc-1-x86_64-boot.iso"
